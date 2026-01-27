@@ -433,10 +433,6 @@ Contributions are welcome! Please follow these guidelines:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the detection framework
@@ -450,12 +446,17 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{anpr_yolov8_2026,
   title={Automatic Number Plate Recognition System using YOLOv8 and EasyOCR},
-  author={Your Name},
+  author={Heshan Ranasinghe},
   year={2026},
-  url={https://github.com/yourusername/Number-Plate-Detection}
+  url={https://github.com/DPHeshanRanasinghe/Number-Plate-Detection}
 }
 ```
 
-## Contact
+## Author
 
-For questions or support, please open an issue on GitHub or contact [your.email@example.com](mailto:your.email@example.com).
+**Heshan Ranasinghe**  
+Electronic and Telecommunication Engineering Undergraduate
+
+- Email: hranasinghe505@gmail.com
+- GitHub: [@DPHeshanRanasinghe](https://github.com/DPHeshanRanasinghe)
+- LinkedIn: [Heshan Ranasinghe](https://www.linkedin.com/in/heshan-ranasinghe-988b00290)
