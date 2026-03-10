@@ -153,21 +153,6 @@ The model successfully handles:
 - Partially occluded plates
 - Different plate sizes and formats
 
-## Hardware Requirements
-
-Tested on:
-- **GPU**: NVIDIA GeForce GTX 1650 (4GB VRAM)
-- **CPU**: Intel i7 or equivalent
-- **RAM**: 8GB minimum, 16GB recommended
-- **Storage**: 5GB for model and results
-
-Performance on different hardware:
-
-| Hardware | Inference Time | FPS |
-|----------|----------------|-----|
-| GTX 1650 | 4.6ms | 217 |
-| RTX 3090 | 2.1ms | 476 |
-| CPU only | 45ms | 22 |
 
 ## Dependencies
 
